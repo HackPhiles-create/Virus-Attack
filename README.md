@@ -1,5 +1,5 @@
 # Virus-Attack
-⭕️FOLLOW My Commands⭕️
+⭕️FOLLOW My Commands⭕️ 💻Desktop Mode On 💻
 
 $pkg install python
 
